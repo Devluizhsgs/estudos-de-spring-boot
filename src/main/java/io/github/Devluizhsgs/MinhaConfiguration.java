@@ -1,4 +1,4 @@
-package io.github.luizhsgs.dev;
+package io.github.Devluizhsgs;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;

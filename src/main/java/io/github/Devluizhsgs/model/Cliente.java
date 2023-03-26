@@ -1,4 +1,4 @@
-package io.github.luizhsgs.dev.model;
+package io.github.Devluizhsgs.model;
 
 public class Cliente {
     private String nome;

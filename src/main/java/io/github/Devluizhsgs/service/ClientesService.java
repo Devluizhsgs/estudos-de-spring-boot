@@ -1,7 +1,7 @@
-package io.github.luizhsgs.dev.service;
+package io.github.Devluizhsgs.service;
 
-import io.github.luizhsgs.dev.model.Cliente;
-import io.github.luizhsgs.dev.repository.ClientesRepository;
+import io.github.Devluizhsgs.model.Cliente;
+import io.github.Devluizhsgs.repository.ClientesRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

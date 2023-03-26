@@ -1,6 +1,6 @@
-package io.github.luizhsgs.dev.repository;
+package io.github.Devluizhsgs.repository;
 
-import io.github.luizhsgs.dev.model.Cliente;
+import io.github.Devluizhsgs.model.Cliente;
 import org.springframework.stereotype.Repository;
 
 @Repository

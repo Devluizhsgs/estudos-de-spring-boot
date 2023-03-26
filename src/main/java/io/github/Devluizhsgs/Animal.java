@@ -1,4 +1,4 @@
-package io.github.luizhsgs.dev;
+package io.github.Devluizhsgs;
 
 public interface Animal {
     void fazerBarulho();
